@@ -1,0 +1,134 @@
+2018-07-03 06:20:14,819 - Inetbanking -INFO - URL opened
+2018-07-03 06:20:15,020 - Inetbanking -INFO - user name entered
+2018-07-03 06:20:15,166 - Inetbanking -INFO - password enter opened
+2018-07-03 06:20:16,200 - Inetbanking -INFO - clicked on submit
+2018-07-03 06:20:16,213 - Inetbanking -INFO - login test passed
+2018-07-03 06:47:54,116 - Inetbanking -INFO - URL opened
+2018-07-03 06:47:54,347 - Inetbanking -INFO - user name entered
+2018-07-03 06:47:54,508 - Inetbanking -INFO - password enter opened
+2018-07-03 06:47:55,546 - Inetbanking -INFO - clicked on submit
+2018-07-03 06:47:55,559 - Inetbanking -INFO - login test passed
+2018-07-03 06:53:56,682 - Inetbanking -INFO - URL opened
+2018-07-03 06:53:56,891 - Inetbanking -INFO - user name entered
+2018-07-03 06:53:57,043 - Inetbanking -INFO - password enter opened
+2018-07-03 06:53:58,793 - Inetbanking -INFO - clicked on submit
+2018-07-03 06:53:58,807 - Inetbanking -INFO - login test passed
+2018-07-03 07:03:04,219 - Inetbanking -INFO - user name entered
+2018-07-03 07:03:04,356 - Inetbanking -INFO - password enter opened
+2018-07-03 07:03:05,771 - Inetbanking -INFO - clicked on submit
+2018-07-03 07:03:05,791 - Inetbanking -INFO - login test passed
+2018-07-03 07:03:37,047 - Inetbanking -INFO - user name entered
+2018-07-03 07:03:37,123 - Inetbanking -INFO - password enter opened
+2018-07-03 07:03:38,329 - Inetbanking -INFO - clicked on submit
+2018-07-03 07:03:38,347 - Inetbanking -INFO - login test passed
+2018-07-03 07:04:28,273 - Inetbanking -INFO - user name entered
+2018-07-03 07:04:28,434 - Inetbanking -INFO - password enter opened
+2018-07-03 07:04:29,717 - Inetbanking -INFO - clicked on submit
+2018-07-03 07:04:29,731 - Inetbanking -INFO - login test passed
+2018-07-03 07:04:38,183 - Inetbanking -INFO - user name entered
+2018-07-03 07:04:38,242 - Inetbanking -INFO - password enter opened
+2018-07-03 07:04:39,676 - Inetbanking -INFO - clicked on submit
+2018-07-03 07:04:39,692 - Inetbanking -INFO - login test passed
+2018-07-03 07:23:47,102 - Inetbanking -INFO - user name entered
+2018-07-03 07:23:47,263 - Inetbanking -INFO - password enter opened
+2018-07-03 07:23:48,263 - Inetbanking -INFO - clicked on submit
+2018-07-03 07:23:48,278 - Inetbanking -INFO - login test passed
+2018-07-03 07:25:05,118 - Inetbanking -INFO - user name entered
+2018-07-03 07:25:05,269 - Inetbanking -INFO - password enter opened
+2018-07-03 07:25:06,349 - Inetbanking -INFO - clicked on submit
+2018-07-03 07:25:06,366 - Inetbanking -INFO - login test failed
+2018-07-03 07:26:45,030 - Inetbanking -INFO - user name entered
+2018-07-03 07:26:45,220 - Inetbanking -INFO - password enter opened
+2018-07-03 07:26:46,243 - Inetbanking -INFO - clicked on submit
+2018-07-03 07:26:46,643 - Inetbanking -INFO - login test failed
+2018-07-04 06:58:40,581 - Inetbanking -INFO - user name provided
+2018-07-04 06:58:40,766 - Inetbanking -INFO - password provided
+2018-07-04 06:58:42,561 - Inetbanking -INFO - clciked on submit
+2018-07-04 06:58:45,648 - Inetbanking -INFO - login success
+2018-07-04 06:58:51,144 - Inetbanking -INFO - user name provided
+2018-07-04 06:58:51,277 - Inetbanking -INFO - password provided
+2018-07-04 06:58:52,003 - Inetbanking -INFO - clciked on submit
+2018-07-04 06:58:56,646 - Inetbanking -INFO - user name provided
+2018-07-04 06:58:56,762 - Inetbanking -INFO - password provided
+2018-07-04 06:58:57,223 - Inetbanking -INFO - clciked on submit
+2018-07-04 06:59:02,026 - Inetbanking -INFO - user name provided
+2018-07-04 06:59:02,144 - Inetbanking -INFO - password provided
+2018-07-04 06:59:02,610 - Inetbanking -INFO - clciked on submit
+2018-07-04 06:59:06,993 - Inetbanking -INFO - user name provided
+2018-07-04 06:59:07,138 - Inetbanking -INFO - password provided
+2018-07-04 06:59:07,593 - Inetbanking -INFO - clciked on submit
+2018-07-04 07:35:10,737 - Inetbanking -INFO - Login is completed
+2018-07-04 07:35:14,555 - Inetbanking -INFO - Proving customer details.............
+2018-07-04 07:35:20,286 - Inetbanking -INFO - Validating adding new customer..............
+2018-07-04 07:36:46,077 - Inetbanking -INFO - user name entered
+2018-07-04 07:36:46,221 - Inetbanking -INFO - password enter opened
+2018-07-04 07:36:47,298 - Inetbanking -INFO - clicked on submit
+2018-07-04 07:36:47,683 - Inetbanking -INFO - login test failed
+2018-07-04 07:36:54,233 - Inetbanking -INFO - user name provided
+2018-07-04 07:36:54,368 - Inetbanking -INFO - password provided
+2018-07-04 07:36:55,880 - Inetbanking -INFO - clciked on submit
+2018-07-04 07:36:58,915 - Inetbanking -INFO - login success
+2018-07-04 07:37:04,164 - Inetbanking -INFO - user name provided
+2018-07-04 07:37:04,280 - Inetbanking -INFO - password provided
+2018-07-04 07:37:04,708 - Inetbanking -INFO - clciked on submit
+2018-07-04 07:37:09,026 - Inetbanking -INFO - user name provided
+2018-07-04 07:37:09,133 - Inetbanking -INFO - password provided
+2018-07-04 07:37:09,593 - Inetbanking -INFO - clciked on submit
+2018-07-04 07:37:14,150 - Inetbanking -INFO - user name provided
+2018-07-04 07:37:14,260 - Inetbanking -INFO - password provided
+2018-07-04 07:37:14,712 - Inetbanking -INFO - clciked on submit
+2018-07-04 07:37:19,204 - Inetbanking -INFO - user name provided
+2018-07-04 07:37:19,288 - Inetbanking -INFO - password provided
+2018-07-04 07:37:19,694 - Inetbanking -INFO - clciked on submit
+2018-07-04 07:37:30,697 - Inetbanking -INFO - Login is completed
+2018-07-04 07:37:34,474 - Inetbanking -INFO - Proving customer details.............
+2018-07-04 07:37:40,200 - Inetbanking -INFO - Validating adding new customer..............
+2018-07-05 06:19:54,777 - Inetbanking -INFO - user name entered
+2018-07-05 06:19:54,976 - Inetbanking -INFO - password enter opened
+2018-07-05 06:19:56,021 - Inetbanking -INFO - clicked on submit
+2018-07-05 06:19:56,362 - Inetbanking -INFO - login test failed
+2018-07-05 06:20:03,387 - Inetbanking -INFO - Login is completed
+2018-07-05 06:20:07,354 - Inetbanking -INFO - Proving customer details.............
+2018-07-05 06:20:12,812 - Inetbanking -INFO - Validating adding new customer..............
+2018-07-05 06:21:23,345 - Inetbanking -INFO - user name entered
+2018-07-05 06:21:23,497 - Inetbanking -INFO - password enter opened
+2018-07-05 06:21:24,499 - Inetbanking -INFO - clicked on submit
+2018-07-05 06:21:24,845 - Inetbanking -INFO - login test failed
+2018-07-05 06:21:31,891 - Inetbanking -INFO - Login is completed
+2018-07-05 06:21:35,396 - Inetbanking -INFO - Proving customer details.............
+2018-07-05 06:21:41,190 - Inetbanking -INFO - Validating adding new customer..............
+2018-07-05 06:22:40,355 - Inetbanking -INFO - user name entered
+2018-07-05 06:22:40,511 - Inetbanking -INFO - password enter opened
+2018-07-05 06:22:41,502 - Inetbanking -INFO - clicked on submit
+2018-07-05 06:22:41,531 - Inetbanking -INFO - login test passed
+2018-07-05 06:22:48,384 - Inetbanking -INFO - Login is completed
+2018-07-05 06:22:51,883 - Inetbanking -INFO - Proving customer details.............
+2018-07-05 06:22:57,576 - Inetbanking -INFO - Validating adding new customer..............
+2018-07-05 06:44:02,644 - Inetbanking -INFO - user name entered
+2018-07-05 06:44:02,802 - Inetbanking -INFO - password enter opened
+2018-07-05 06:44:03,849 - Inetbanking -INFO - clicked on submit
+2018-07-05 06:44:03,865 - Inetbanking -INFO - login test passed
+2018-07-05 06:44:11,114 - Inetbanking -INFO - Login is completed
+2018-07-05 06:44:14,634 - Inetbanking -INFO - Proving customer details.............
+2018-07-05 06:44:20,416 - Inetbanking -INFO - Validating adding new customer..............
+2018-07-05 06:48:56,068 - Inetbanking -INFO - user name entered
+2018-07-05 06:48:56,223 - Inetbanking -INFO - password enter opened
+2018-07-05 06:48:57,210 - Inetbanking -INFO - clicked on submit
+2018-07-05 06:48:57,224 - Inetbanking -INFO - login test passed
+2018-07-05 06:49:04,438 - Inetbanking -INFO - Login is completed
+2018-07-05 06:49:08,335 - Inetbanking -INFO - Proving customer details.............
+2018-07-05 06:49:13,984 - Inetbanking -INFO - Validating adding new customer..............
+2018-07-05 07:11:27,677 - Inetbanking -INFO - user name entered
+2018-07-05 07:11:27,800 - Inetbanking -INFO - password enter opened
+2018-07-05 07:11:28,776 - Inetbanking -INFO - clicked on submit
+2018-07-05 07:11:28,789 - Inetbanking -INFO - login test passed
+2018-07-05 07:11:35,203 - Inetbanking -INFO - Login is completed
+2018-07-05 07:11:39,008 - Inetbanking -INFO - Proving customer details.............
+2018-07-05 07:11:44,680 - Inetbanking -INFO - Validating adding new customer..............
+2018-07-05 07:15:26,626 - Inetbanking -INFO - user name entered
+2018-07-05 07:15:26,765 - Inetbanking -INFO - password enter opened
+2018-07-05 07:15:27,794 - Inetbanking -INFO - clicked on submit
+2018-07-05 07:15:27,811 - Inetbanking -INFO - login test passed
+2018-07-05 07:15:34,089 - Inetbanking -INFO - Login is completed
+2018-07-05 07:15:37,999 - Inetbanking -INFO - Proving customer details.............
+2018-07-05 07:15:43,497 - Inetbanking -INFO - Validating adding new customer..............
